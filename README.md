@@ -1,2 +1,2 @@
-# PythonMundo01
+# Python Curso em Vídeo
 Gustavo Guanabara Python Course - 01
