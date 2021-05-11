@@ -50,7 +50,7 @@ Todas as tecnologias usadas na realização do projeto:
 
 ## :warning: Requisitos ##
 
-Antes de executar, você precisar ter o [Git](https://git-scm.com) e o [Python](https://www.python.org/) instalados.
+Antes de executar, você precisar ter o [Git](https://git-scm.com) e o [Python](https://www.python.org/) instalados, ou utilizar diretamente pelo [Google Colab](https://colab.research.google.com/).
 
 </div>
 
