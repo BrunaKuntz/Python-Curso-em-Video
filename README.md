@@ -1,14 +1,10 @@
 <div align = "center" id = "top">
 
-<img width="400" src="imagens/cev.png">
+<img width="400" src="https://user-images.githubusercontent.com/83251757/117885168-e5c0a680-b283-11eb-8c81-de6fcc4ce4f8.png">
 
 </div>
 
 <div align = "center" id = "top">
-
-<img width="200" src="imagens/mundo1.png">
-<img width="200" src="imagens/mundo2.png">
-<img width="200" src="imagens/mundo3.png">
 
 </div>
 
@@ -32,11 +28,9 @@
 
 <p>
 
-  Aqui estão todos os exercícios que eu resolvi durante a realização do curso de Python 3 ministrado pelo professor [Gustavo Guanabara](https://www.facebook.com/gustavoguanabara) do projeto [Curso em Vídeo](https://www.cursoemvideo.com/). Eu já havia realizado esse curso em 2018, mas acabei não salvando os exercícios que ficaram perdidos em algum lugar do mundo. Então, decidi que iria refazer esse curso para relembrar os conceitos básicos da linguagem.
-  
-  É incrível ver como tudo evoluiu. Todos os comandos que no início eram complicados e difíceis de se fazer, hoje já consigo realizar com uma certa naturalidade. E é mais incrível ainda saber que foi esse curso que me fez começar a estudar programação e me apaixonar por essa profissão.
+  Aqui estão todos os exercícios que eu resolvi durante a realização do curso de Python 3 ministrado pelo professor [Gustavo Guanabara](https://www.facebook.com/gustavoguanabara) do projeto [Curso em Vídeo](https://www.cursoemvideo.com/). 
 
-  Deixo aqui meus sinceros agradecimentos ao professor Gustavo Guanabara por ter ministrado esse curso que ficou marcado na minha vida e que com certeza ajudou e ajuda muitas pessoas que estão começando sua carreira com programação ou relembrando os conceitos.
+  Deixo aqui meus sinceros agradecimentos ao professor Gustavo Guanabara por ter ministrado esse curso incrível que fez com que eu desse meus primeiros passos no mundo da programação.
 
 </p>
 
@@ -94,6 +88,6 @@ Alguns locais de onde me baseei para realizar o projeto:
 
 <div align = "center">
 
-<a href = "#top">Voltar ai início</a>
+<a href = "#top">Voltar ao início</a>
 
 </div>
