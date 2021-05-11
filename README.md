@@ -15,7 +15,6 @@
   <a href="#descricao">Descrição</a> &#xa0; | &#xa0;
   <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#requisitos">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#executando">Executando</a> &#xa0; | &#xa0;
   <a href="#referencias">Referências</a> &#xa0; | &#xa0;
 
 </p>
@@ -51,23 +50,6 @@ Todas as tecnologias usadas na realização do projeto:
 ## :warning: Requisitos ##
 
 Antes de executar, você precisar ter o [Git](https://git-scm.com) e o [Python](https://www.python.org/) instalados, ou utilizar diretamente pelo [Google Colab](https://colab.research.google.com/).
-
-</div>
-
-<div id = "executando">
-
-## :computer: Executando ##
-
-Depois de correr tudo certo na instalação do Python, está na hora de clonar o repositório.
-
-```bash
-
-# Clone este projeto
-$ git clone https://github.com/Iuri-Almeida/CeV-Python
-
-# Acesse a pasta do projeto
-$ cd CeV-Python
-```
 
 </div>
 
