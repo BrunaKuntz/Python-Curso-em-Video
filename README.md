@@ -29,7 +29,7 @@
 
   Aqui estão todos os exercícios que eu resolvi durante a realização do curso de Python 3 ministrado pelo professor [Gustavo Guanabara](https://www.facebook.com/gustavoguanabara) do projeto [Curso em Vídeo](https://www.cursoemvideo.com/). 
 
-  Deixo aqui meus sinceros agradecimentos ao professor Gustavo Guanabara por ter ministrado esse curso incrível que fez com que eu desse meus primeiros passos no mundo da programação. :heart::heart:
+  Deixo aqui meus sinceros agradecimentos ao professor Gustavo Guanabara por ter ministrado esse curso incrível. :heart::heart:
 
 </p>
 
